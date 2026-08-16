@@ -6,3 +6,4 @@
 - Optimize image assets
 - Add animation library and initial variants
 - Create shared UI components
+- Update typography and font loading
