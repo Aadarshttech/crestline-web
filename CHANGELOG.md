@@ -5,3 +5,4 @@
 - Implement navbar and routing
 - Optimize image assets
 - Add animation library and initial variants
+- Create shared UI components
