@@ -3,3 +3,4 @@
 - Set up global styling and themes
 - Add hero component
 - Implement navbar and routing
+- Optimize image assets
