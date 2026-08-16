@@ -1,1 +1,2 @@
 - Initialize project structure
+- Configure Next.js and Tailwind CSS
