@@ -1,3 +1,4 @@
 - Initialize project structure
 - Configure Next.js and Tailwind CSS
 - Set up global styling and themes
+- Add hero component
