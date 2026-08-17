@@ -17,3 +17,4 @@
 - Update corporate gifting assets
 - Add VR headsets collection layout
 - Fix z-index issues in navbar
+- Refactor page layouts for responsiveness
