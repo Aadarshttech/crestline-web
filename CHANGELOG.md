@@ -10,3 +10,4 @@
 - Fix mobile layout for hero section
 - Refactor CSS variables
 - Setup framer motion configuration
+- Add product categories component
