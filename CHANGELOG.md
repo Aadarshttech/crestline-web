@@ -15,3 +15,4 @@
 - Enhance performance of hero video
 - Add collection pages skeleton
 - Update corporate gifting assets
+- Add VR headsets collection layout
