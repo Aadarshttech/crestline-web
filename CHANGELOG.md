@@ -11,3 +11,4 @@
 - Refactor CSS variables
 - Setup framer motion configuration
 - Add product categories component
+- Integrate video background
