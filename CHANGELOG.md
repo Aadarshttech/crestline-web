@@ -12,3 +12,4 @@
 - Setup framer motion configuration
 - Add product categories component
 - Integrate video background
+- Enhance performance of hero video
