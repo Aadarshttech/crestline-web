@@ -14,3 +14,4 @@
 - Integrate video background
 - Enhance performance of hero video
 - Add collection pages skeleton
+- Update corporate gifting assets
