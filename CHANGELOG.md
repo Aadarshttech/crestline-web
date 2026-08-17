@@ -9,3 +9,4 @@
 - Update typography and font loading
 - Fix mobile layout for hero section
 - Refactor CSS variables
+- Setup framer motion configuration
