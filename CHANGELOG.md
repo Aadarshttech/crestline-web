@@ -23,3 +23,4 @@
 - Add contact page form layout
 - Update branding assets and logos
 - Enhance hover states on interactive elements
+- Optimize loading states
