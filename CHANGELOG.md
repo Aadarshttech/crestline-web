@@ -20,3 +20,4 @@
 - Refactor page layouts for responsiveness
 - Add sticky scroll highlight component
 - Implement footer design
+- Add contact page form layout
