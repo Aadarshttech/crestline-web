@@ -19,3 +19,4 @@
 - Fix z-index issues in navbar
 - Refactor page layouts for responsiveness
 - Add sticky scroll highlight component
+- Implement footer design
