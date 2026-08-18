@@ -21,3 +21,4 @@
 - Add sticky scroll highlight component
 - Implement footer design
 - Add contact page form layout
+- Update branding assets and logos
