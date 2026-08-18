@@ -26,3 +26,4 @@
 - Optimize loading states
 - Clean up unused dependencies
 - Update package-lock.json
+- Add error boundaries
