@@ -174,12 +174,12 @@ function Card({
   const ref = useRef<HTMLDivElement>(null);
 
   // Calculate distance from mouse to center of card
-  const distance = useTransform([mouseX, mouseY, scrollProgress], ([x, y]) => {
+  const distance = useTransform([mouseX, mouseY, scrollProgress], ([x, y]: number[]) => {
     if (!ref.current || variant === "simple") return 200; // Default large distance
     const rect = ref.current.getBoundingClientRect();
     const centerX = rect.left + rect.width / 2;
     const centerY = rect.top + rect.height / 2;
-    const dist = Math.sqrt(Math.pow(x - centerX, 2) + Math.pow(y - centerY, 2));
+    const dist = Math.sqrt(Math.pow((x as number) - centerX, 2) + Math.pow((y as number) - centerY, 2));
     return dist;
   });
 
