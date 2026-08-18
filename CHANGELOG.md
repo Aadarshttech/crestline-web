@@ -18,3 +18,4 @@
 - Add VR headsets collection layout
 - Fix z-index issues in navbar
 - Refactor page layouts for responsiveness
+- Add sticky scroll highlight component
