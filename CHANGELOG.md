@@ -28,3 +28,4 @@
 - Update package-lock.json
 - Add error boundaries
 - Fix hydration mismatch in dev mode
+- Improve accessibility of navigation
