@@ -29,3 +29,4 @@
 - Add error boundaries
 - Fix hydration mismatch in dev mode
 - Improve accessibility of navigation
+- Add meta tags for SEO
