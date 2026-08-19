@@ -34,3 +34,4 @@
 - Refactor simple product gallery
 - Implement responsive flex layouts
 - Add dynamic routing for collections
+- Fix mobile menu overlay bug
