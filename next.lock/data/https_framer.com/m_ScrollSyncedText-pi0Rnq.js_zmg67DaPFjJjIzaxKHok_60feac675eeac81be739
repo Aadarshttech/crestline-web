@@ -1,0 +1,8 @@
+/*
+ * ScrollWordHighlight
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/w9FfwN8EBJiY7odKeVmZ/zmg67DaPFjJjIzaxKHok/ScrollWordHighlight.js"
+export { default } from "https://framerusercontent.com/modules/w9FfwN8EBJiY7odKeVmZ/zmg67DaPFjJjIzaxKHok/ScrollWordHighlight.js"

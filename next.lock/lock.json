@@ -1,0 +1,7 @@
+{
+  "https://framer.com/m/ScrollSyncedText-pi0Rnq.js@zmg67DaPFjJjIzaxKHok": { "integrity": "sha512-mcAPdPh2b9qKqxOMPHh9uV6QWbkLaa7q6aFiR4MneDY5h4UqfGJ0CMBCTj0ts+Fp6LAcl1EtVek9g6PH7HRTaA==", "contentType": "text/javascript; charset=utf-8" },
+  "https://framer.com/m/liquid-glass-carousel-SkrkTr.js@kpCFFax8ciLkuLf0kMrs": { "integrity": "sha512-HGufFMdpe4kYuLZTGa3+laiA1wv/89BwyCqWoJ4fB3gpOZQg/gZQlcTJGY70ErI5n1mLhgcCa/Fk2ZvK3y/Jkw==", "contentType": "text/javascript; charset=utf-8" },
+  "https://framerusercontent.com/modules/ZbZFW0rSsvM2nIfFKaLY/kpCFFax8ciLkuLf0kMrs/liquid_glass_carousel.js": { "integrity": "sha512-P2epMver7OrDY4BlqO3Zkrf0aTPAdClnuaWMaLQjWUoVL008Rv0eTxg9GiT4dRfKY5EPeuGZlJsPu33vsu9CZw==", "contentType": "text/javascript; charset=utf-8" },
+  "https://framerusercontent.com/modules/w9FfwN8EBJiY7odKeVmZ/zmg67DaPFjJjIzaxKHok/ScrollWordHighlight.js": { "integrity": "sha512-bNtaVI1lCLnyP6w6GGatTfNJZ6gf6bywUcnUQdt+w1l+rqymVpIlnJSACRrOorqHLjsRViczR/br3TigO940+A==", "contentType": "text/javascript; charset=utf-8" },
+  "version": 1
+}

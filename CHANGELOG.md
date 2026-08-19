@@ -37,3 +37,4 @@
 - Fix mobile menu overlay bug
 - Update visual hierarchy and spacing
 - Final design polish
+- Finalize frontend architecture and deploy

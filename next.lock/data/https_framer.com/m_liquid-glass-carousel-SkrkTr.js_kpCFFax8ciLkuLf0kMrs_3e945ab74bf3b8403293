@@ -1,0 +1,8 @@
+/*
+ * liquid_glass_carousel
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/ZbZFW0rSsvM2nIfFKaLY/kpCFFax8ciLkuLf0kMrs/liquid_glass_carousel.js"
+export { default } from "https://framerusercontent.com/modules/ZbZFW0rSsvM2nIfFKaLY/kpCFFax8ciLkuLf0kMrs/liquid_glass_carousel.js"
