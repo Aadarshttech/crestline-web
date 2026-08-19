@@ -31,3 +31,4 @@
 - Improve accessibility of navigation
 - Add meta tags for SEO
 - Configure custom font families
+- Refactor simple product gallery
