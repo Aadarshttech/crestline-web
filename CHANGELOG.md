@@ -33,3 +33,4 @@
 - Configure custom font families
 - Refactor simple product gallery
 - Implement responsive flex layouts
+- Add dynamic routing for collections
