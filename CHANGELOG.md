@@ -32,3 +32,4 @@
 - Add meta tags for SEO
 - Configure custom font families
 - Refactor simple product gallery
+- Implement responsive flex layouts
