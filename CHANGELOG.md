@@ -36,3 +36,4 @@
 - Add dynamic routing for collections
 - Fix mobile menu overlay bug
 - Update visual hierarchy and spacing
+- Final design polish
