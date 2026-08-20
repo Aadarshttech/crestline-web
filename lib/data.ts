@@ -27,8 +27,7 @@ export interface Product {
 }
 
 // In production, this should be an absolute path or relative to process.cwd()
-// Since we are running this locally, we can point to the scraped data folder
-const DATA_FILE = path.join(process.cwd(), '..', 'scraped_data', 'products.json');
+const DATA_FILE = path.join(process.cwd(), 'data', 'products.json');
 
 let cachedProducts: Product[] | null = null;
 
