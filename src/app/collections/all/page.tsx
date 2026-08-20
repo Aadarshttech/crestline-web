@@ -1,7 +1,7 @@
 import Navbar from "../../../../components/Navbar";
 import Footer from "../../../../components/Footer";
 import ProductGallery from "../../../../components/ProductGallery";
-import { getProducts, getCategories } from "../../../../lib/data";
+import { getProducts, getCategories, Product } from "../../../../lib/data";
 
 export const metadata = {
   title: "Home & Appliances | Crestline",
