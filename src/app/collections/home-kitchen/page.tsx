@@ -1,5 +1,5 @@
-import ComingSoon from "../../../../components/ComingSoon";
+import { redirect } from "next/navigation";
 
-export default function HomeKitchenPage() {
-  return <ComingSoon title="Home & Kitchen" bgImage="/home_kitchen.png" />;
+export default function HomeKitchenRedirect() {
+  redirect("/collections/all");
 }

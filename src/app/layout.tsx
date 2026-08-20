@@ -49,6 +49,8 @@ export const metadata: Metadata = {
   description: "Foshan City Crestline Life Products Co., Ltd.",
 };
 
+import { LanguageProvider } from "../../lib/LanguageContext";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -59,7 +61,11 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${outfit.variable} ${playfair.variable} ${cormorant.variable} ${syncopate.variable} ${bebas.variable} ${syne.variable} h-full antialiased scroll-smooth`}
     >
-      <body className="min-h-full flex flex-col font-sans bg-black text-white">{children}</body>
+      <body className="min-h-full flex flex-col font-sans bg-black text-white">
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
+      </body>
     </html>
   );
 }

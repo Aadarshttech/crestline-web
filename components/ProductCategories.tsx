@@ -1,33 +1,50 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 const categories = [
   {
-    id: 1,
-    title: "HOME & KITCHEN",
-    subtitle: "Premium Culinary Essentials",
+    id: "home-kitchen",
+    num: "01",
+    title: "Home & Kitchen",
+    tagline: "Commercial Induction & Infrared Culinary Hardware",
+    badge: "High-Volume OEM",
+    specs: "2200W–3500W • Ceramic Glass • Touch Controls",
     image: "/home_kitchen.png",
+    href: "/collections/all",
   },
   {
-    id: 2,
-    title: "CORPORATE GIFTING",
-    subtitle: "Exclusive Executive Selections",
+    id: "corporate-gifting",
+    num: "02",
+    title: "Corporate Gifting",
+    tagline: "Bespoke Executive Selections & Custom Presentation Sets",
+    badge: "Custom Packaging",
+    specs: "Laser Engraving • Leatherette Sets • Global Logistics",
     image: "/corporate_gifting.png",
+    href: "/collections/corporate-gifting",
   },
   {
-    id: 3,
-    title: "FURNITURES",
-    subtitle: "Architectural Living Spaces",
+    id: "furnitures",
+    num: "03",
+    title: "Living & Furnitures",
+    tagline: "Ergonomic Seating & Architectural Commercial Interior Pieces",
+    badge: "Structural Grade",
+    specs: "Aniline Leather • Aerospace Alloys • Tested 100k Cycles",
     image: "/furnitures.png",
+    href: "/collections/furnitures",
   },
   {
-    id: 4,
-    title: "VR HEADSETS",
-    subtitle: "Next-Generation Immersions",
+    id: "vr-headsets",
+    num: "04",
+    title: "Optics & VR Headsets",
+    tagline: "Next-Generation Immersive Displays & Wearable Tech",
+    badge: "Precision Optics",
+    specs: "Ultra-low Latency • Fresnel Optics • Custom Firmware",
     image: "/vr.png",
+    href: "/collections/vr-headsets",
   }
 ];
 
@@ -35,115 +52,133 @@ export default function ProductCategories() {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(0);
 
   return (
-    <section id="catalog" className="relative w-full min-h-screen bg-black py-32 px-6 md:px-12 flex flex-col items-center justify-center">
+    <section className="relative w-full h-[100svh] bg-black overflow-hidden flex font-outfit">
       
-      {/* Section Header */}
-      <div className="w-full max-w-[1400px] flex flex-col items-center text-center mb-24">
-        <span className="text-white/40 uppercase tracking-[0.5em] text-xs font-medium mb-6">Our Collections</span>
-        <h2 className="text-white text-4xl md:text-6xl font-outfit font-light uppercase tracking-widest leading-tight">
-          Curated <br /> Excellence
-        </h2>
-        <div className="w-16 h-[1px] bg-white/30 mt-8"></div>
-      </div>
-
-      {/* Expanding Accordion Gallery */}
-      <div className="w-full max-w-[1400px] h-[60vh] md:h-[70vh] flex flex-col md:flex-row gap-4">
-        {categories.map((category, index) => {
-          const isHovered = hoveredIndex === index;
-          return (
-            <motion.div
-              key={category.id}
-              onMouseEnter={() => setHoveredIndex(index)}
-              onMouseLeave={() => setHoveredIndex(0)} // Default back to first or just stay
-              layout
-              initial={false}
-              animate={{
-                flex: isHovered ? (typeof window !== "undefined" && window.innerWidth < 768 ? 4 : 4) : 1,
-              }}
-              transition={{ duration: 0.7, ease: [0.32, 0.72, 0, 1] }}
-              className="relative rounded-2xl overflow-hidden cursor-pointer group h-full bg-white/5 border border-white/10"
-            >
-              {/* Background Image */}
-              <div className="absolute inset-0 w-full h-full">
+      {categories.map((category, index) => {
+        const isHovered = hoveredIndex === index;
+        
+        return (
+          <motion.div
+            key={category.id}
+            onMouseEnter={() => setHoveredIndex(index)}
+            layout
+            initial={false}
+            animate={{
+              flex: isHovered ? 4 : 1,
+            }}
+            transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
+            className="relative h-full overflow-hidden border-r border-white/10 last:border-r-0 cursor-pointer group"
+          >
+            <Link href={category.href} className="block w-full h-full relative">
+              
+              {/* Cinematic Background Image */}
+              <div className="absolute inset-0 w-full h-full bg-neutral-900">
                 <motion.div
                   animate={{
                     scale: isHovered ? 1.05 : 1.15,
                   }}
-                  transition={{ duration: 0.7, ease: "easeOut" }}
-                  className="w-full h-full"
+                  transition={{ duration: 1.2, ease: "easeOut" }}
+                  className="relative w-full h-full"
                 >
                   <Image
                     src={category.image}
                     alt={category.title}
                     fill
-                    className="object-cover object-center"
+                    sizes="100vw"
+                    className="object-cover object-center opacity-80"
+                    priority
                   />
                 </motion.div>
-                <div className={`absolute inset-0 transition-opacity duration-700 ${isHovered ? "bg-gradient-to-t from-black via-black/40 to-transparent" : "bg-black/60 group-hover:bg-black/50"}`}></div>
+                
+                {/* Dynamic Cinematic Overlay */}
+                <div className={`absolute inset-0 transition-opacity duration-700 ease-in-out ${
+                  isHovered 
+                    ? "bg-gradient-to-t from-black/90 via-black/20 to-black/40" 
+                    : "bg-black/60"
+                }`} />
               </div>
 
-              {/* Content */}
-              <div className="absolute inset-0 p-6 md:p-10 flex flex-col justify-end">
-                <motion.div 
-                  layout
-                  className="flex flex-col gap-2"
-                >
-                  <div className="flex items-center gap-4">
-                    <span className="text-white/40 font-outfit text-sm tracking-widest">0{index + 1}</span>
-                    <motion.div 
-                      animate={{ width: isHovered ? "40px" : "0px", opacity: isHovered ? 1 : 0 }}
-                      className="h-[1px] bg-white hidden md:block"
-                    />
-                  </div>
-                  <motion.h3 
-                    animate={{ 
-                      rotate: isHovered ? 0 : -90,
-                      originX: 0,
-                      originY: 1,
-                      x: isHovered ? 0 : 16,
-                      y: isHovered ? 0 : -40,
-                      scale: isHovered ? 1 : 0.6
-                    }}
-                    transition={{ duration: 0.7, ease: [0.32, 0.72, 0, 1] }}
-                    className="text-white font-outfit font-light uppercase tracking-widest text-2xl md:text-4xl whitespace-nowrap origin-bottom-left"
+              {/* Massive Architectural Number */}
+              <div className="absolute top-32 left-8 md:left-12 opacity-20 mix-blend-overlay pointer-events-none transition-transform duration-700 ease-out">
+                <span className="text-[12rem] lg:text-[18rem] font-light tracking-tighter text-white leading-none">
+                  {category.num}
+                </span>
+              </div>
+
+              {/* Collapsed Vertical Title */}
+              <div className="absolute inset-0 flex items-end justify-center pb-24 pointer-events-none md:hidden">
+                {!isHovered && (
+                  <motion.h2 
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    className="text-white font-light tracking-[0.3em] uppercase text-xl whitespace-nowrap -rotate-90 origin-bottom"
                   >
                     {category.title}
-                  </motion.h3>
-                  
-                  <div className="overflow-hidden">
-                    <motion.p
-                      initial={false}
-                      animate={{ 
-                        opacity: isHovered ? 1 : 0,
-                        y: isHovered ? 0 : 20
-                      }}
-                      transition={{ duration: 0.5, ease: "easeOut" }}
-                      className="text-white/60 font-light tracking-wide text-sm md:text-base mt-2"
+                  </motion.h2>
+                )}
+              </div>
+              <div className="absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none hidden md:block">
+                <AnimatePresence>
+                  {!isHovered && (
+                    <motion.h2 
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      exit={{ opacity: 0 }}
+                      transition={{ duration: 0.3 }}
+                      className="text-white/60 font-light tracking-[0.4em] uppercase text-2xl whitespace-nowrap -rotate-90"
                     >
-                      {category.subtitle}
-                    </motion.p>
-                  </div>
-                </motion.div>
+                      {category.title}
+                    </motion.h2>
+                  )}
+                </AnimatePresence>
               </div>
 
-              {/* Explore Button */}
-              <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: isHovered ? 1 : 0 }}
-                transition={{ duration: 0.5, delay: 0.2 }}
-                className="absolute top-6 right-6 md:top-10 md:right-10"
-              >
-                <div className="w-12 h-12 rounded-full border border-white/30 flex items-center justify-center backdrop-blur-md bg-black/20 group-hover:bg-white group-hover:text-black transition-all duration-500">
-                  <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                  </svg>
-                </div>
-              </motion.div>
+              {/* Expanded Luxury Content Box */}
+              <div className="absolute inset-0 p-8 md:p-16 flex flex-col justify-end z-20 text-white pointer-events-none">
+                <AnimatePresence>
+                  {isHovered && (
+                    <motion.div 
+                      initial={{ opacity: 0, y: 30 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: 10, transition: { duration: 0.2 } }}
+                      transition={{ duration: 0.6, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
+                      className="flex flex-col gap-4 max-w-2xl pointer-events-auto"
+                    >
+                      <div className="flex items-center gap-4 mb-2">
+                        <span className="px-3 py-1 bg-white/10 backdrop-blur-md border border-white/20 rounded-full text-[10px] font-bold tracking-[0.2em] uppercase text-white shadow-lg">
+                          {category.badge}
+                        </span>
+                        <div className="h-px bg-white/30 flex-grow max-w-[100px]" />
+                      </div>
+                      
+                      <h2 className="font-light uppercase tracking-tighter text-4xl md:text-6xl lg:text-7xl leading-[0.9]">
+                        {category.title}
+                      </h2>
 
-            </motion.div>
-          );
-        })}
-      </div>
+                      <p className="text-white/70 text-lg md:text-xl font-light leading-relaxed max-w-lg mt-4">
+                        {category.tagline}
+                      </p>
+                      
+                      <p className="text-white/50 text-[11px] font-bold tracking-[0.2em] uppercase mt-4 mb-8">
+                        {category.specs}
+                      </p>
+
+                      <div className="group/btn relative inline-flex items-center justify-center gap-4 bg-white text-black py-4 px-8 rounded-full overflow-hidden self-start cursor-pointer hover:scale-105 transition-all duration-300">
+                        <span className="relative z-10 text-[11px] font-bold tracking-[0.2em] uppercase">Explore Collection</span>
+                        <svg className="w-4 h-4 relative z-10 transform group-hover/btn:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </div>
+                      
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+
+            </Link>
+          </motion.div>
+        );
+      })}
 
     </section>
   );

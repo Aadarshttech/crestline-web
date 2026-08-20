@@ -91,7 +91,7 @@ export default function Home() {
           </motion.div>
           
           {/* Main Cinematic Logo */}
-          <div className="relative flex flex-col items-center justify-center mt-12 md:mt-20 w-[90vw] md:w-[75vw] max-w-[1200px] h-[20vh] md:h-[35vh]">
+          <div className="relative flex flex-col items-center justify-center -mt-16 md:mt-20 w-[90vw] md:w-[75vw] max-w-[1200px] h-[20vh] md:h-[35vh]">
             <AnimatedLogo />
           </div>
 
