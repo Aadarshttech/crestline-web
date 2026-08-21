@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Product } from '../lib/data';
 import VideoThumbnail from './VideoThumbnail';
@@ -14,10 +15,22 @@ interface ProductGalleryProps {
 }
 
 export default function ProductGallery({ products, categories, topPicks = [] }: ProductGalleryProps) {
-  const [activeCategory, setActiveCategory] = useState<string>("All");
-  const [searchQuery, setSearchQuery] = useState("");
+  const searchParams = useSearchParams();
+  const initialCategory = searchParams.get("category") || "All";
+  const initialSearch = searchParams.get("q") || "";
+
+  const [activeCategory, setActiveCategory] = useState<string>(initialCategory);
+  const [searchQuery, setSearchQuery] = useState(initialSearch);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 15;
+
+  // Listen for changes in URL parameters (e.g. when back button is pressed or re-navigated)
+  useEffect(() => {
+    const categoryParam = searchParams.get("category");
+    const qParam = searchParams.get("q");
+    if (categoryParam) setActiveCategory(categoryParam);
+    if (qParam) setSearchQuery(qParam);
+  }, [searchParams]);
 
   const filteredProducts = useMemo(() => {
     // 1. Tokenize search query

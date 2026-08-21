@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import Navbar from "../../../../components/Navbar";
 import Footer from "../../../../components/Footer";
 import ProductGallery from "../../../../components/ProductGallery";
@@ -66,7 +67,9 @@ export default async function AllCollectionsPage() {
 
       {/* The Gallery Component (Client-Side filtering) */}
       <div className="flex-grow">
-        <ProductGallery products={products} categories={categories} topPicks={topPicks} />
+        <Suspense fallback={<div className="w-full min-h-[50vh] flex items-center justify-center"><div className="w-8 h-8 border-t-2 border-neutral-900 rounded-full animate-spin"></div></div>}>
+          <ProductGallery products={products} categories={categories} topPicks={topPicks} />
+        </Suspense>
       </div>
 
       <div className="mt-auto">
