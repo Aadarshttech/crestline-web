@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kit-001",
+    "name": "Luxury Tech Kit",
+    "description": "A sleek minimalist white gift box featuring a silver aluminum power bank, premium wireless mouse, and silver metal pen.",
+    "price": 149.99,
+    "image": "/images/corporate-gifts/luxury_tech_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-002",
+    "name": "Eco Bamboo Kit",
+    "description": "Sustainable gifting with a bamboo insulated water bottle, cork-bound notebook, and bamboo pen in a kraft paper box.",
+    "price": 89.99,
+    "image": "/images/corporate-gifts/eco_bamboo_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-003",
+    "name": "Executive Coffee Kit",
+    "description": "Matte black ceramic coffee mug, sleek coffee canister, and gold scoop for the perfect morning brew.",
+    "price": 110.0,
+    "image": "/images/corporate-gifts/executive_coffee_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-004",
+    "name": "CEO Desk Set",
+    "description": "Premium walnut wood box containing a black leather desk pad, heavy brass fountain pen, and crystal paperweight.",
+    "price": 249.99,
+    "image": "/images/corporate-gifts/ceo_desk_set_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-005",
+    "name": "Travel Essentials Kit",
+    "description": "Premium black leather passport holder, silver luggage tag, and a compact matte travel umbrella.",
+    "price": 129.99,
+    "image": "/images/corporate-gifts/travel_essentials_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-007",
+    "name": "Audio Premium Set",
+    "description": "High-end matte black wireless earbuds, braided charging cable, and slim black power bank.",
+    "price": 189.99,
+    "image": "/images/corporate-gifts/audio_premium_set_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-008",
+    "name": "The Golden Touch",
+    "description": "Dark blue notebook with gold trim, gold plated pen, and gold metal business card holder in a navy luxury box.",
+    "price": 175.0,
+    "image": "/images/corporate-gifts/golden_touch_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-009",
+    "name": "Minimalist Matte Kit",
+    "description": "Ultra-clean Scandinavian design featuring a matte white water bottle, grey felt notebook, and white stylus pen.",
+    "price": 115.0,
+    "image": "/images/corporate-gifts/minimalist_matte_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-011",
+    "name": "Platinum Executive Kit",
+    "description": "A luxury black rigid box featuring a custom black foam insert containing a platinum plated pen, a premium silver thermos, and a black leather wallet.",
+    "price": 299.99,
+    "image": "/images/corporate-gifts/platinum_executive_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-012",
+    "name": "The Royal Amethyst Suite",
+    "description": "Golden and deep purple insulated water bottle, premium leather notebook, and heavy gold pen presented in a rigid black foam insert.",
+    "price": 275.0,
+    "image": "/images/corporate-gifts/golden_purple_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-013",
+    "name": "The Executive Wellness Ritual",
+    "description": "Aromatherapy diffuser, premium essential oils, and a white-gold bath accessory set designed for executive rejuvenation.",
+    "price": 195.0,
+    "image": "/images/corporate-gifts/wellness_ritual_kit_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-014",
+    "name": "The Global Connectivity Suite",
+    "description": "Foldable magnetic wireless charger, noise-canceling earbuds case, and a premium metallic power bank for the modern traveler.",
+    "price": 320.0,
+    "image": "/images/corporate-gifts/global_connectivity_suite_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-015",
+    "name": "The Eco-Luxury Bamboo Collection",
+    "description": "High-end bamboo desk organizer, vegetable-tanned leather notebook, and a bamboo-encased pen celebrating sustainable luxury.",
+    "price": 165.0,
+    "image": "/images/corporate-gifts/eco_bamboo_collection_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-016",
+    "name": "The Artisan Coffee Connoisseur",
+    "description": "Matte white pour-over kettle, artisanal coffee beans in a luxury tin, and a minimalist ceramic dripper for the perfect morning ritual.",
+    "price": 210.0,
+    "image": "/images/corporate-gifts/artisan_coffee_connoisseur_v3.jpg",
+    "category": "Corporate Gifts"
+  },
+  {
+    "id": "kit-017",
+    "name": "The Signature Leather Carry",
+    "description": "Premium leather passport holder, currency case, and matching leather luggage tag for the global executive.",
+    "price": 240.0,
+    "image": "/images/corporate-gifts/signature_leather_carry_v3.jpg",
+    "category": "Corporate Gifts"
+  }
+]
