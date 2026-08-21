@@ -15491,7 +15491,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "5l-smart-electric-rice-cooker-stainless-steel-inner-pot-plas",
@@ -15592,7 +15601,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2025-latest-models-3l-500w-digital-electric-rice-cooker-plas",
@@ -15689,7 +15707,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-2l-digital-electric-rice-cooker-with-touch",
@@ -15783,7 +15810,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-high-quality-smart-rice-cooker-5l-multi-function",
@@ -15883,7 +15919,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-5l-electric-digital-rice-cooker-multi-function-automat",
@@ -15977,7 +16022,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "small-multifunctional-electric-olla-arrocera-low-sugar-rice-",
@@ -16070,7 +16124,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "mini-electric-rice-cooker-new-style-digital-ceramic-coating-",
@@ -16168,7 +16231,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "prestige-5l-electric-rice-cooker-220v-high-quality-non-stick",
@@ -16266,7 +16338,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-high-quality-electric-rice-cooker-10-in-1-smart-digital-m",
@@ -16367,7 +16448,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "multifunction-stainless-steel-pressure-cooker-smart-home-app",
@@ -16456,7 +16546,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21.80",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "asia-popular-programmable-electric-pressure-cooker-large-sta",
@@ -16546,7 +16649,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-direct-high-quality-smart-home-appliances-6l-electri",
@@ -16642,7 +16758,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-electric-pressure-cooker-modern-touch-screen-sm",
@@ -16736,7 +16861,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "300-999 pieces"
+      },
+      {
+        "price": "$23",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-smart-home-appliances-for-kitchen-electric-pressure-cook",
@@ -16831,7 +16965,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-5l-smart-rice-cooker-high-quality-multi-function",
@@ -16928,7 +17071,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3-in-1-household-electric-breakfast-maker-with-frying-pan-sa",
@@ -17014,7 +17166,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-3-in-1-breakfast-maker-multifunction-electric-s",
@@ -17101,7 +17262,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "special-price-professional-roasting-less-oil-digital-control",
@@ -17193,7 +17363,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-digital-smart-oil-free-and-smoke-free-chicken-wings-a",
@@ -17285,7 +17468,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-stainless-steel-touch-screen-5-liter-electric-oil-f",
@@ -17380,7 +17576,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-price-stainless-steel-touch-screen-5l-large-capacity",
@@ -17473,7 +17682,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "220v-electric-rice-cooker-non-stick-electric-multi-cooker-mi",
@@ -17568,13 +17790,22 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "cooking-appliances-electric-rice-cooker-in-thailand-new-2022",
     "url": "https://www.alibaba.com/product-detail/Cooking-Appliances-Electric-Rice-Cooker-in_1601628120164.html",
     "title": "Cooking Appliances Electric Rice Cooker in Thailand New 2022 Electric Multi Cooker Curry Cooker",
-    "price": "$14-16.50",
+    "price": "$14",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -17771,7 +18002,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "best-price-quality-national-presto-rice-cooker-multi-functio",
@@ -17864,7 +18104,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-2l-portable-stainless-steel-electric-rice-cooker-sm",
@@ -17962,7 +18211,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "wholesale-3l-smart-electric-rice-cooker-stainless-steel-inne",
@@ -18063,7 +18321,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "ceramic-electron-2l-mini-electric-rice-cooker-multi-purpose-",
@@ -18161,7 +18428,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$13",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-professional-smart-touch-screen-control-rice-cooker-multi",
@@ -18262,7 +18542,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "2,000-4,999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "automatic-multi-purpose-small-size-12v-mini-olla-arrocera-mu",
@@ -18360,7 +18657,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "5l-smart-electric-rice-cooker-900w-modern-home-appliances-po",
@@ -18462,7 +18768,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-28l-electronic-rice-cooker-low-sugar-national-multi-pu",
@@ -18565,7 +18884,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.99",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.99",
+        "quantity": "1,000-2,063 pieces"
+      },
+      {
+        "price": "$13.99",
+        "quantity": "≥2,064 pieces"
+      }
+    ]
   },
   {
     "id": "new-design-5l-digital-electric-national-rice-cooker-home-sma",
@@ -18666,13 +18998,26 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "multi-cooker-professional-vietnam-best-electric-mini-rice-co",
     "url": "https://www.alibaba.com/product-detail/Multi-Cooker-Professional-Vietnam-Best-Electric_1601627947598.html",
     "title": "Multi Cooker Professional Vietnam Best Electric Mini Rice Cookers 3 in 1 Low Carbo Professionnel Multifonction",
-    "price": "$12.50-13",
+    "price": "$12.50",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -18862,7 +19207,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.00",
+        "quantity": "500 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "1,000 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "2,000 pieces"
+      }
+    ]
   },
   {
     "id": "electrodomesticos-de-cocina-digital-rice-cooker-skd-crockpot",
@@ -18958,7 +19316,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "haley-15-liter-non-stick-multipurpose-rice-cooker-kitchen-ap",
@@ -19057,7 +19424,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21.50",
+        "quantity": "500 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "1,000 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "2,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-number-electric-kitchen-appliance-8l-touch-screen-air-",
@@ -19154,7 +19534,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-design-8l-capacity-household-use-wholesale-oem-home-e",
@@ -19251,7 +19640,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "oil-free-professional-home-appliance-air-fryer-multifunction",
@@ -19347,7 +19745,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-design-3l-large-capacity-oil-free-electric-air-fryer-",
@@ -19444,7 +19851,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$13.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-220v-35l-1400w-led-digital-touch-screen-single-",
@@ -19541,7 +19957,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "restaurant-kitchen-equipment-electric-air-fryers-wholesale-8",
@@ -19640,7 +20065,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-45l-stainless-steel-electric-air-fryer-convection-t",
@@ -19741,7 +20175,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electric-6l-air-fryer-with-mechanical-double-knob-control-ob",
@@ -19836,7 +20279,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "kukar-multipurpose-kids-cooker-olayks-mini-multi-cooker-elec",
@@ -19933,7 +20385,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "500-2,156 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "2,157-5,237 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥5,238 pieces"
+      }
+    ]
   },
   {
     "id": "kitchen-appliances-cooking-products-panci-small-mini-multi-e",
@@ -20033,7 +20498,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "big-capacity-3l5l-electric-rice-cooker-aluminum-inner-pot-pl",
@@ -20134,7 +20608,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "multi-rice-cooker-5l-digital-timer-control-low-sugar-non-sti",
@@ -20231,7 +20714,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "multi-purpose-mini-electric-rice-cooker-desugar-portable-min",
@@ -20326,7 +20818,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.90",
+        "quantity": "1,000-1,499 pieces"
+      },
+      {
+        "price": "$18.80",
+        "quantity": "≥1,500 pieces"
+      }
+    ]
   },
   {
     "id": "fast-cook-3l-digital-electric-rice-cooker-multifunctional-no",
@@ -20426,7 +20931,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-direct-electric-rice-cooker-5l-digital-capacity-low-",
@@ -20523,7 +21037,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "500-1,999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "luxury-multi-function-smart-cooker-rice-cooker-electric-port",
@@ -20713,7 +21236,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-sold-commercial-16-in-1-multi-cooker-5l-electric-ric",
@@ -20809,7 +21341,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-automatic-modern-feeding-dispense-electric-rice",
@@ -20908,7 +21449,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "brand-new-household-12-in-one-professional-presto-rapid-digi",
@@ -21003,7 +21553,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$17.80",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-5l-digital-smart-low-sugar-rice-cooker-multifunctiona",
@@ -21104,7 +21663,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$20",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "professional-electric-rice-cooker-manufacturer-home-cooking-",
@@ -21201,7 +21773,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "professional-home-use-smart-electric-rice-cooker-low-sugar-f",
@@ -21285,7 +21866,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-electric-deluxe-touch-screen-mini-rice-cooker-ceram",
@@ -21375,7 +21965,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.60",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.60",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "professional-multi-functional-smart-electric-rice-cooker-iro",
@@ -21465,13 +22064,22 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "fast-5-litres-rice-cooker-low-carbo-smart-digital-led-displa",
     "url": "https://www.alibaba.com/product-detail/Fast-5-Litres-Rice-Cooker-Low_1601627973448.html",
     "title": "Fast 5 Litres Rice Cooker Low Carbo Smart Digital LED Display Electric Cooker Square Multi Functional Rice Cooker Price",
-    "price": "$21-22",
+    "price": "$21",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -21653,7 +22261,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-mini-low-sugar-carb-rice-cooker-wifi-rice-soup-small-e",
@@ -21751,13 +22372,22 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "korea-electric-mini-rice-cooker-15l-portable-multifunctional",
     "url": "https://www.alibaba.com/product-detail/Korea-Electric-Mini-Rice-Cooker-1_1601627961477.html",
     "title": "Korea Electric Mini Rice Cooker 1.5l Portable Multifunctional Steam Automatic Digital Rice Cooker Electric",
-    "price": "$12.50-13",
+    "price": "$12.50",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -21855,7 +22485,7 @@
     "id": "fast-japan-less-low-sugar-rice-cooker-diabetes-large-volume-",
     "url": "https://www.alibaba.com/product-detail/Fast-Japan-Less-Low-Sugar-Rice_1601627960547.html",
     "title": "Fast Japan Less Low Sugar Rice Cooker Diabetes Large Volume 5l Rice Cooker Multifunction Big Rice Cooker Wholesale Price",
-    "price": "$21-22",
+    "price": "$21",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -22048,7 +22678,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-modern-5l-electric-smart-rice-cooker-multifuncti",
@@ -22151,7 +22790,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "mini-electric-multifunction-cooker-rice-warmer-electronic-sm",
@@ -22252,7 +22900,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "oem-wholesale-5l-900w-portable-smart-digital-electric-rice-c",
@@ -22351,7 +23008,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-5l-900w-national-mini-electric-rice-cooker-stain",
@@ -22450,7 +23116,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-modern-5l-touch-screen-control-rice-cooker-high-qua",
@@ -22553,7 +23228,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-arrival-5l-electric-rice-cooker-with-touch-screen-contro",
@@ -22658,7 +23342,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "5-liters-digital-electric-rice-cookers-with-non-stick-inner-",
@@ -22759,7 +23452,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-portable-digital-rice-cooker-mini-multifunction-elect",
@@ -22862,7 +23564,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-1400w-8-litre-oil-free-kitchen-healthy-smart-heating-air",
@@ -22959,7 +23670,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "multifunctional-fully-self-touch-control-1400w-large-capacit",
@@ -23057,7 +23777,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "8l-1400w-high-capacity-camping-multifunctional-portable-digi",
@@ -23155,7 +23884,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "45l-digital-control-modern-style-stainless-steel-oil-free-ai",
@@ -23253,7 +23991,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "45l-digital-control-modern-style-stainless-steel-oil-free-ai",
@@ -23345,7 +24092,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-stainless-steel-inner-basket-5l-air-fryer-6-menus-digita",
@@ -23444,7 +24200,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-stainless-steel-inner-basket-5l-air-fryer-6-menus-digita",
@@ -23537,7 +24302,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-stainless-steel-inner-basket-5l-air-fryer-digital-con",
@@ -23637,7 +24411,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-design-8l-capacity-household-use-wholesale-oem-home-e",
@@ -23730,7 +24513,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "customized-household-lcd-display-touch-screen-12l-multifunct",
@@ -23829,7 +24621,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "digital-air-fryer-3l-1000w-smart-touch-screen-electric-fryer",
@@ -23925,7 +24726,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "35l-high-capacity-1400w-high-power-stainless-steel-smart-air",
@@ -24023,7 +24833,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "mini-electric-air-fryer-oven-for-home-hotel-use-temperature-",
@@ -24119,7 +24938,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$25.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-multi-function-electric-air-fryer-oven-high-quality-oe",
@@ -24218,7 +25046,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$25",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "fashionable-11l-air-fryer-electric-all-in-one-machine-househ",
@@ -24320,7 +25157,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$23",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "detachable-plate-electric-toaster-pizza-oven-temperature-con",
@@ -24417,7 +25263,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "11l-stylish-air-fryer-oven-electric-all-in-one-household-mul",
@@ -24520,7 +25375,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-15l-oil-free-air-fryer-fashionable-square-oven-with-t",
@@ -24622,7 +25486,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-plastic-housing-electric-pressure-cooker-led-display-stai",
@@ -24709,7 +25582,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$29.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$29",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "rice-cooker-automatic-phone-operated-solar-500ml-pot-low-car",
@@ -24806,7 +25692,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-5l-electric-rice-cooker-with-measuring-cup-factory-sol",
@@ -24901,7 +25796,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$12.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.80",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$11",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-multi-function-rice-cooker-less-low-sugar-square-rice-coo",
@@ -25001,7 +25909,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.10",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "portable-5l-stainless-steel-electric-cooker-programmable-mul",
@@ -25100,7 +26017,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "baby-food-mini-rice-cooker-cylinder-portable-electrical-rice",
@@ -25203,7 +26129,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.10",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-smart-home-dual-function-digital-pressure-rice-",
@@ -25290,7 +26225,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$29.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$29",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-dual-function-smart-home-led-display-electric-pressur",
@@ -25377,7 +26325,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$29.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$29",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-design-led-display-electric-pressure-rice-cooker-sus3",
@@ -25464,7 +26425,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$29.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$29",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "multifunctional-3l-portable-electric-mini-rice-cooker-for-ki",
@@ -25564,7 +26538,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.80",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "low-sugar-mini-rice-cooker-electric-energy-saving-digital-sm",
@@ -25666,7 +26657,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.80",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electrical-appliances-for-sale-portable-rice-cooker-digital-",
@@ -25765,7 +26773,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.80",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "rice-cooker-110-volts-low-carbo-multifunction-less-starch-in",
@@ -25865,7 +26890,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20.60",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$19.60",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$18.60",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.60",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "best-12l-mini-ceramic-electric-rice-cooker-novel-fast-cookin",
@@ -25966,7 +27008,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.80",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-stainless-steel-inner-basket-5l-air-fryer-easy-clean-dig",
@@ -26065,7 +27124,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-stainless-steel-inner-basket-5l-air-fryer-digital-con",
@@ -26159,7 +27227,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-modern-stainless-steel-inner-basket-5l-display-screen-ai",
@@ -26258,7 +27335,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "pre-sale-stainless-steel-inner-basket-5l-air-fryer-6-menus-d",
@@ -26357,7 +27443,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hob-cooktops-kitchen-countertops-furnace-infrared-heating-us",
@@ -26444,7 +27539,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "1-burner-stove-ceramic-infrared-cooker-electric-induction-ho",
@@ -26535,7 +27639,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$10",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$9",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "promotional-product-2200w-3500w-cookers-multipurpose-fashion",
@@ -26622,7 +27735,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "portable-electric-infrared-cooker-with-temperature-controlle",
@@ -26709,7 +27831,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electric-portable-single-burner-cooker-solid-countertop-infr",
@@ -26796,7 +27927,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$10",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$9",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electric-stove-cooker-hot-plate-portable-one-burner-infrared",
@@ -26882,7 +28022,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2200w-3500w-220v-sensor-touch-control-electric-infrared-cook",
@@ -26969,7 +28118,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$11",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$10",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "multifunctional-5l-large-capacity-ceramic-pot-rice-cooker-el",
@@ -27066,7 +28224,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$35",
+        "quantity": "2-499 pieces"
+      },
+      {
+        "price": "$33",
+        "quantity": "500-1,999 pieces"
+      },
+      {
+        "price": "$31",
+        "quantity": "2,000-4,999 pieces"
+      },
+      {
+        "price": "$29",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "900w-smart-home-electric-rice-cooker-with-touch-screen-contr",
@@ -27170,7 +28345,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.30",
+        "quantity": "300-499 pieces"
+      },
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$14.20",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-2l-electric-rice-cooker-multifunctional-stainle",
@@ -27269,7 +28461,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "1-99 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-digital-electric-rice-cooker-3l-500w-square-shape-alu",
@@ -27366,7 +28575,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "cl-hot-selling-food-grade-rice-cooker-with-10-menus",
@@ -27465,7 +28687,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "4-499 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-smart-cooking-rice-cooker-electric-stainless-steel-steame",
@@ -27565,7 +28800,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "portable-2l-electric-multicooker-mini-rice-cooker-slow-cook-",
@@ -27657,7 +28905,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-arrival-5l-electric-rice-cooker-900w-smart-home-applianc",
@@ -27757,7 +29018,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-2l-digital-3-in-1-mini-electric-multifunction-co",
@@ -27861,7 +29139,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.30",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$15.30",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$14.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-electric-digital-multi-rice-cooker-national-hou",
@@ -27963,7 +29258,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20.50",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-mini-3l-electric-digital-rice-cooker-measuring-cup-low",
@@ -28065,7 +29377,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-smart-rice-cooker-5l-digital-electric-square-al",
@@ -28169,7 +29498,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$23",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-5l-electric-rice-cooker-for-household-popular-smart-h",
@@ -28270,7 +29616,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2025-digital-mini-electric-rice-cooker-2l-multifunction-kitc",
@@ -28372,7 +29735,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.80",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-stainless-steel-electric-rice-cooker-with-low-sugar-steam",
@@ -28476,7 +29856,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20.60",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$19.60",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$18.60",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.60",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-5l-rice-cooker-with-high-quality-touch-screen-control",
@@ -28580,7 +29977,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-style-3l-smart-electric-rice-cooker-paddle-accessory-",
@@ -28683,7 +30097,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.80",
+        "quantity": "1-99 pieces"
+      },
+      {
+        "price": "$17.80",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-digital-electric-rice-cooker-aluminum-inner-pot-multi",
@@ -28785,7 +30216,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-85-liters-electric-air-fryer-small-kitchen-applianc",
@@ -28886,7 +30330,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$23.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "for-commercial-and-home-electric-air-fryer-85l-oven-stainles",
@@ -28986,7 +30439,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-home-appliances-85l-visible-window-air-fryer-low-oi",
@@ -29084,7 +30546,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$25",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-price-stainless-steel-touch-screen-5l-large-capacity",
@@ -29172,7 +30643,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-electric-square-household-kitchen-stainless-steel-5l-",
@@ -29259,7 +30743,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-square-stainless-steel-touch-screen-electric-digital-",
@@ -29348,7 +30845,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "special-factory-price-stainless-steel-color-screen-touch-con",
@@ -29436,7 +30946,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "household-kitchen-square-modern-electric-stainless-steel-5l-",
@@ -29529,7 +31052,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "stainless-steel-square-modern-touch-screen-smart-5l-electric",
@@ -29622,7 +31158,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "stainless-steel-square-modern-touch-screen-smart-5l-electric",
@@ -29709,7 +31258,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-electric-stainless-steel-5l-air-fryer-color-screen-to",
@@ -29802,7 +31364,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.35",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.75",
+        "quantity": "1,000-4,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-home-electric-2l-mini-rice-cooker-portable-digital-non",
@@ -29902,7 +31477,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "manufacturers-2l-household-electric-rice-cooker-with-non-sti",
@@ -30003,7 +31587,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electric-mini-rice-cooker-2l-digital-control-healthy-low-sug",
@@ -30105,7 +31698,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-smart-home-digital-rice-cooker-portable-multi-function-el",
@@ -30202,7 +31804,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "1-99 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "100-999 pieces"
+      },
+      {
+        "price": "$15.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-smart-home-digital-rice-cooker-portable-multi-function-el",
@@ -30299,7 +31914,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.50",
+        "quantity": "1-99 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "100-999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "stainless-steel-3-in-1-electric-oven-toaster-coffee-maker-wi",
@@ -30391,7 +32019,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-arrival-3l-500w-electric-rice-cooker-smart-kitchen-appli",
@@ -30488,13 +32125,30 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "2,000-4,999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥5,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-3l-digital-control-rice-cooker-smart-multi",
     "url": "https://www.alibaba.com/product-detail/Factory-Wholesale-3L-Digital-Control-Rice_1601624740310.html",
     "title": "Factory Wholesale 3L Digital Control Rice Cooker Smart Multi-Function with Non-Stick Coating Aluminum Inner Pot for Hotels",
-    "price": "$9.80-10.15",
+    "price": "$9.80",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -30593,7 +32247,7 @@
     "id": "new-arrival-multi-functional-smart-electric-rice-cooker-for-",
     "url": "https://www.alibaba.com/product-detail/New-Arrival-Multi-Functional-Smart-Electric_1601624712593.html",
     "title": "New Arrival Multi-Functional Smart Electric Rice Cooker for 2-3 People New Arrival Accessory Included Measuring Cup and Paddle",
-    "price": "$16.10-16.68",
+    "price": "$16.10",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -30689,7 +32343,7 @@
     "id": "high-quality-3l-500w-electric-rice-cooker-automatic-multifun",
     "url": "https://www.alibaba.com/product-detail/High-Quality-3L-500W-Electric-Rice_1601624703640.html",
     "title": "High Quality 3L 500W Electric Rice Cooker Automatic Multifunction Smart Rice Cooker with Measuring Cup Accessory",
-    "price": "$16.10-16.68",
+    "price": "$16.10",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -30785,7 +32439,7 @@
     "id": "smart-automatic-3l-electric-rice-cooker-digital-control-new-",
     "url": "https://www.alibaba.com/product-detail/Smart-Automatic-3L-Electric-Rice-Cooker_1601624691645.html",
     "title": "Smart Automatic 3L Electric Rice Cooker Digital Control New Design Multipurpose for Household Hotel Use Measuring Cup Paddle",
-    "price": "$9.80-10.15",
+    "price": "$9.80",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -30882,7 +32536,7 @@
     "id": "special-promotions-for-modern-3l-electric-digital-control-ri",
     "url": "https://www.alibaba.com/product-detail/Special-Promotions-for-Modern-3L-Electric_1601624668775.html",
     "title": "Special Promotions for Modern 3L Electric Digital Control Rice Cooker Smart Multi Cooker for Small Kitchen Household Use",
-    "price": "$16.10-16.68",
+    "price": "$16.10",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -31075,13 +32729,26 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.69",
+        "quantity": "500-819 pieces"
+      },
+      {
+        "price": "$14.69",
+        "quantity": "820-2,063 pieces"
+      },
+      {
+        "price": "$13.69",
+        "quantity": "≥2,064 pieces"
+      }
+    ]
   },
   {
     "id": "3l-mini-electric-rice-cooker-smart-multifunction-household-c",
     "url": "https://www.alibaba.com/product-detail/3L-Mini-Electric-Rice-Cooker-Smart_1601624653775.html",
     "title": "3L Mini Electric Rice Cooker Smart Multifunction Household Cooker with Non-Stick Aluminum Inner Pot and Measuring Cup Accessory",
-    "price": "$16.10-16.68",
+    "price": "$16.10",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -31272,7 +32939,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-4l-digital-smart-low-sugar-rice-cooker-multifunctiona",
@@ -31374,7 +33050,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21.70",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.70",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$19.70",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "cuckoo-5l-digital-rice-cooker-multi-functional-commercial-ki",
@@ -31471,7 +33160,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "silver-crest-mini-electric-digital-rice-cooker-portable-mult",
@@ -31570,7 +33268,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.10",
+        "quantity": "500-1,139 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "1,140-2,807 pieces"
+      },
+      {
+        "price": "$16.20",
+        "quantity": "≥2,808 pieces"
+      }
+    ]
   },
   {
     "id": "small-size-3l-electric-rice-cooker-national-automatic-mini-k",
@@ -31670,7 +33381,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "mini-2l-multicooker-digital-electric-arrocera-3-in-1-multi-p",
@@ -31770,7 +33490,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$12.20",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-3l5l-electric-rice-cooker-with-steamer-smart-au",
@@ -31866,13 +33599,26 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$12",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.30",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$10.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "low-sugar-corokey-hot-pot-mini-multipurpose-cooker-digital-a",
     "url": "https://www.alibaba.com/product-detail/Low-Sugar-Corokey-Hot-Pot-Mini_1601626528525.html",
     "title": "Low Sugar Corokey Hot Pot Mini Multipurpose Cooker Digital Automatic Electric Rice Cooker",
-    "price": "$16-16.50",
+    "price": "$16",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -32064,7 +33810,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-selling-new-multifunction-5l-electric-multi-cooker-w",
@@ -32161,7 +33916,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.20",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$14.60",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "5l-digital-control-electric-rice-cooker-with-paddle-and-meas",
@@ -32260,7 +34028,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "all-in-1-30-litre-programmable-multi-cooker-2-thousand-only-",
@@ -32362,7 +34139,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "1,000-1,499 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,500 pieces"
+      }
+    ]
   },
   {
     "id": "healthy-baby-rice-cookers-stainless-steel-pot-low-sugar-rice",
@@ -32465,13 +34255,26 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "smartcooker-intelligent-silver-crest-rice-cookers-digital-el",
     "url": "https://www.alibaba.com/product-detail/Smartcooker-Intelligent-Silver-Crest-Rice-Cookers_1601626510602.html",
     "title": "Smartcooker Intelligent Silver Crest Rice Cookers Digital Electric 5l 1.8l Low Sugar Low Carbo",
-    "price": "$14-16.50",
+    "price": "$14",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -32666,13 +34469,22 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-2,999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "≥3,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-steamer-cookers-international-multipurpose-low-sugar-r",
     "url": "https://www.alibaba.com/product-detail/Smart-Steamer-Cookers-International-Multipurpose-Low_1601628029086.html",
     "title": "Smart Steamer Cookers International Multipurpose Low Sugar Rice Cooker Inner Pot Ceramic Multifunction",
-    "price": "$12.50-13",
+    "price": "$12.50",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -32865,7 +34677,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.90",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.90",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$12.90",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "popular-3l-rice-cooker-electric-multifunction-rice-cooker-sm",
@@ -32964,7 +34789,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.90",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$15.90",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "buy-5l-rice-cooker-price-cuckoo-industrial-portable-multifun",
@@ -33062,13 +34900,22 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "ckd-skd-products-mini-rice-cooker-best-rice-cooker-intellige",
     "url": "https://www.alibaba.com/product-detail/Ckd-Skd-Products-Mini-Rice-Cooker_1601626490760.html",
     "title": "Ckd Skd Products Mini Rice Cooker  Best Rice Cooker Intelligent  Fast Rice Cooker With Non Stick Coating Inner Pot",
-    "price": "$17-17.50",
+    "price": "$17",
     "minOrder": "Min. Order: 500 pieces",
     "category": "Rice Cookers",
     "description": "Product descriptions from the supplierReport abuse",
@@ -33259,7 +35106,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l5l-intelligent-cordless-rice-cooker-paddle-measuring-cup-c",
@@ -33361,7 +35217,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.90",
+        "quantity": "1,000-1,499 pieces"
+      },
+      {
+        "price": "$18.80",
+        "quantity": "≥1,500 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-5l-electric-rice-cooker-with-high-quality-non-stick",
@@ -33457,7 +35326,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$21.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-electric-household-45l-no-oil-air-fryer-with-digital-t",
@@ -33555,7 +35437,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-45l-stainless-steel-electric-air-fryer-convection-t",
@@ -33650,7 +35541,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-45l-stainless-steel-square-oil-free-air-fryer-oven-",
@@ -33749,7 +35649,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "85l-digital-touch-screen-app-controlled-stainless-steel-glas",
@@ -33846,7 +35755,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$23.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "restaurant-kitchen-equipment-electric-air-fryers-wholesale-8",
@@ -33939,7 +35857,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "85l-stainless-steel-electric-touch-screen-air-fryer-with-mod",
@@ -34039,7 +35966,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$25",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-45l-stainless-steel-square-oil-free-air-fryer-oven-",
@@ -34132,7 +36068,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "85l-stainless-steel-electric-touch-screen-air-fryer-with-mod",
@@ -34226,7 +36171,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$25",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "luxurious-and-high-quality-smart-85l-air-fryer-home-applianc",
@@ -34324,7 +36278,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$24",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "pre-sale-stainless-steel-inner-basket-5l-air-fryer-6-menus-d",
@@ -34417,7 +36380,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "stainless-steel-inner-basket-5l-digital-control-air-fryer-wi",
@@ -34516,7 +36488,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-stainless-steel-inner-basket-5l-digital-control-air-f",
@@ -34615,7 +36596,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-household-stainless-steel-inner-basket-5l-digital-con",
@@ -34714,7 +36704,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$26",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$25.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "digital-multifunctional-low-sugar-steamer-rice-cooker-electr",
@@ -34814,7 +36813,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "mini-smart-digital-electric-rice-cooker-2l-low-sugar-low-fat",
@@ -34908,7 +36916,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-arrival-5l-electric-smart-rice-cooker-popular-kitchen-ap",
@@ -35009,7 +37026,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-mini-square-2l-electric-rice-cooker-non-stick-coati",
@@ -35104,7 +37130,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "1-5 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "6-499 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-quality-5l-multifunction-rice-cooker-smart-touch-screen",
@@ -35204,7 +37247,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.30",
+        "quantity": "300-499 pieces"
+      },
+      {
+        "price": "$14.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$14.20",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "colorful-rice-cooker-factory-non-stick-inner-pot-luxury-elec",
@@ -35303,7 +37363,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20",
+        "quantity": "300-499 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "popular-5l-automatic-electric-rice-cooker-with-non-stick-rep",
@@ -35402,7 +37479,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "2-499 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-2l-electronic-mini-air-fryer-oven-visible-glass-cus",
@@ -35500,7 +37594,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "high-capacity-factory-customizable-digital-power-smart-multi",
@@ -35598,7 +37701,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-3l-household-rice-cooker-multi-functional-auto-smar",
@@ -35697,7 +37813,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.50",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-luxury-5l-electric-rice-cooker-900w-touch-",
@@ -35800,7 +37933,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "luxury-upgrade-5l-smart-rice-cooker-electric-multicooker-for",
@@ -35905,7 +38055,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-3l-capacity-electric-rice-cooker-cream-color-non-st",
@@ -36003,7 +38170,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.50",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-3l-electric-digital-control-rice-cooker-smart-multi-f",
@@ -36099,7 +38283,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.50",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-arrival-3l-smart-rice-cooker-electric-mini-multi-cooker-",
@@ -36197,7 +38398,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20.20",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$19.20",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$18.20",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.20",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-smart-electric-rice-cooker-modern-digital-control-multi-c",
@@ -36294,7 +38512,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.50",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$13.50",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$11.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-sale-modern-3l-digital-control-rice-cooker-smart-low-sug",
@@ -36394,7 +38629,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$13",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-modern-digital-control-3l-electric-rice-co",
@@ -36494,7 +38746,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$14",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$13",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-5l-capacity-multifunction-electric-automat",
@@ -36598,7 +38867,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "low-sugar-function-kitchen-appliance-multi-cooker-9-in-1-mul",
@@ -36701,7 +38987,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$24",
+        "quantity": "10-99 pieces"
+      },
+      {
+        "price": "$23",
+        "quantity": "100-499 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "900w1000w-stainless-steel-electric-pressure-cooker-5l6l-mult",
@@ -36796,7 +39099,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$20.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$20.20",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$19.50",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "5l-high-quality-source-factory-new-electric-pressure-cooker-",
@@ -36894,7 +39210,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$23",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$22",
+        "quantity": "1,000-9,999 pieces"
+      },
+      {
+        "price": "$21",
+        "quantity": "≥10,000 pieces"
+      }
+    ]
   },
   {
     "id": "3-in-1-durable-plastic-housing-household-electric-breakfast-",
@@ -36978,7 +39307,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3-1-multifunctional-breakfast-maker-for-household-hotel-use-",
@@ -37070,7 +39408,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2025-hot-selling-high-quality-3-in-1-breakfast-maker-machine",
@@ -37163,7 +39510,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2025-new-release-hot-selling-3-in-1-breakfast-maker-electric",
@@ -37255,7 +39611,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2025-stainless-steel-3-in-1-breakfast-maker-electric-oven-to",
@@ -37348,7 +39713,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-direct-in-stock-3-in-1-breakfast-station-electric-to",
@@ -37441,7 +39815,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "factory-hot-sell-large-7l-capacity-electric-multifunctional-",
@@ -37533,7 +39916,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3-in-1-multifunction-mini-household-oven-set-bread-maker-san",
@@ -37625,7 +40017,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3-in-1-breakfast-maker-multi-function-bake-frying-chicken-ma",
@@ -37716,7 +40117,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "luxury-45l-stainless-steel-smart-home-oil-free-air-fryer-hig",
@@ -37813,7 +40223,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$19",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "35l-digital-control-oil-free-healthy-non-stick-air-fryer-for",
@@ -37914,7 +40333,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$13.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "electric-digital-control-air-fryer-35l-with-digital-control-",
@@ -38018,7 +40446,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$13.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-2l-mini-low-sugar-electric-rice-cooker-smart-kitchen-",
@@ -38117,7 +40554,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "economical-2l-electric-mini-rice-cooker-low-sugar-function-d",
@@ -38220,7 +40666,24 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.80",
+        "quantity": "1-9 pieces"
+      },
+      {
+        "price": "$16.80",
+        "quantity": "10-499 pieces"
+      },
+      {
+        "price": "$15.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-style-new-product-6-in-1-multifunctional-rice-cooker-for",
@@ -38322,7 +40785,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$13.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$12.80",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2l-domestic-mini-rice-cooker-single-person-kitchen-appliance",
@@ -38423,7 +40895,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "low-sugar-multi-cooker-electric-automatic-rice-cooker-2l-ric",
@@ -38524,7 +41005,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "small-home-appliances-multifunctional-rice-smart-cookers-low",
@@ -38623,7 +41113,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "wholesale-2l-electric-mini-rice-cooker-option-inner-pot-choo",
@@ -38725,7 +41224,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$14.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$13.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "smart-2l-electric-mini-rice-cooker-with-plastic-housing-and-",
@@ -38823,7 +41331,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "2l-digital-smart-electric-mini-rice-cooker-low-sugar-functio",
@@ -38922,7 +41439,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$15.50",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$14.50",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "imd-touch-control-1-person-mini-electric-rice-cooker-smart-p",
@@ -39018,7 +41544,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16.50",
+        "quantity": "1,000-1,499 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,500 pieces"
+      }
+    ]
   },
   {
     "id": "factory-wholesale-3l-500w-mini-electric-lunch-box-rice-cooke",
@@ -39118,7 +41657,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$19",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$18.50",
+        "quantity": "1,000-1,499 pieces"
+      },
+      {
+        "price": "$18",
+        "quantity": "≥1,500 pieces"
+      }
+    ]
   },
   {
     "id": "multicooker-5l-cooking-appliance-electric-mini-arabic-cooker",
@@ -39214,7 +41766,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "3l-mini-electric-rice-cooker-smart-multi-cooking-function-lo",
@@ -39316,7 +41877,20 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17.80",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17",
+        "quantity": "1,000-1,999 pieces"
+      },
+      {
+        "price": "$15.99",
+        "quantity": "≥2,000 pieces"
+      }
+    ]
   },
   {
     "id": "hot-selling-3l-rice-cooker-electric-smart-kitchen-appliance-",
@@ -39417,7 +41991,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.60",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.60",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "cheapest-price-cute-mini-low-sugar-price-of-rice-cookersteam",
@@ -39518,7 +42101,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$18.60",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$17.60",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "commercial-5-liters-smart-digital-led-touch-screen-control-r",
@@ -39621,7 +42213,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$17",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$16",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "modern-2l-automatic-electric-rice-cooker-mini-multi-kitchen-",
@@ -39726,7 +42327,16 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16.30",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15.30",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   },
   {
     "id": "new-design-factory-price-3l4l5l-smart-electric-rice-cooker-a",
@@ -39827,6 +42437,15 @@
         "quantity": "≥10,000 pieces"
       }
     ],
-    "priceLadder": []
+    "priceLadder": [
+      {
+        "price": "$16",
+        "quantity": "500-999 pieces"
+      },
+      {
+        "price": "$15",
+        "quantity": "≥1,000 pieces"
+      }
+    ]
   }
 ]
